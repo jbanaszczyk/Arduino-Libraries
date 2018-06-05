@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gmock_test", "..\tests\gmock_test.vcxproj", "{F10D22F8-AC7B-4213-8720-608E7D878CD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08196164-DC2A-45CD-BE64-6C3C12B9CB7B}"
+	ProjectSection(SolutionItems) = preProject
+		..\doc\cloning.md = ..\doc\cloning.md
+		..\README.md = ..\README.md
+		..\doc\README.md = ..\doc\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Debug|x64.ActiveCfg = Debug|x64
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Debug|x64.Build.0 = Debug|x64
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Debug|x86.Build.0 = Debug|Win32
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Release|x64.ActiveCfg = Release|x64
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Release|x64.Build.0 = Release|x64
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Release|x86.ActiveCfg = Release|Win32
+		{F10D22F8-AC7B-4213-8720-608E7D878CD2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1751625C-B6EC-4C24-A343-2711E6486CB0}
+	EndGlobalSection
+EndGlobal
