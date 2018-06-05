@@ -18,6 +18,7 @@ Just:
 ```
 git clone git@github.com:jbanaszczyk/ArduinoLibraries.git
 cd ArduinoLibraries
+git submodule init
 git submodule update --recursive --remote
 ```
 
