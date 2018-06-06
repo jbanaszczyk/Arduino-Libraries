@@ -6,7 +6,7 @@ None of steps described below are required to use the library.
 
 Just: 
 * [download](https://github.com/jbanaszczyk/ArduinoLibraries/archive/master.zip) and unpack archive
-* copy required files into your project
+* copy required files into your project from `src` directory
 * read the documentation
 
 ## Requirements
