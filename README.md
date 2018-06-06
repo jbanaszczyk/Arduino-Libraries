@@ -6,7 +6,6 @@
 [![License](https://img.shields.io/badge/license-BSL-blue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
 
-
 # my Arduino Libraries
 
 I'm proud to present my some commonly used libraries (tribool, units, compact optional) for Arduino.
@@ -15,12 +14,21 @@ I'm proud to present my some commonly used libraries (tribool, units, compact op
 
 "my Arduino Libraries" library is distributed under [Boost Software License 1.0 (BSL-1.0)](https://www.boost.org/LICENSE_1_0.txt).
 
+## libaries
+
+| library | short                    | download                                                                                   | documentation                                                                                |
+|:--------|:-------------------------|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
+| tribool | true/false/unknown logic | [src/tribool.h](https://github.com/jbanaszczyk/ArduinoLibraries/blob/master/src/tribool.h) | [doc/tribool.md](https://github.com/jbanaszczyk/ArduinoLibraries/blob/master/doc/tribool.md) |
+
+
 ## For beginners: principles of use
 
 1. Just copy requested file from my GitHub into your project
-2. Review examples directory.
-	* There is example usage for that library.
-	* There is example sketch named `p01beginner.ino`
+   * it is located in `src` directory
+2. Review `examples` directory.
+   * find example ending with `01`. 
+     * Like `tribool01`. It is simplest example for `tribool` library
+	* There is example sketch (for example: `tribool01.ino`)
 	* Look at the beginning of the file
 	* Copy lines `#include ...` and `using ...` into your sketch
 3. Voila

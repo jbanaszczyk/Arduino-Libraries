@@ -2,7 +2,6 @@
 
 ## Contents:
 
-[cloning and testing](cloning.md) 
+[cloning and testing](cloning.md)
 
-
-
+[tribool](tribool.md)

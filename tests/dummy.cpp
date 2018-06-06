@@ -3,7 +3,6 @@
 #include <gmock/gmock.h>
 #include <gtest/gtest.h>
 
-TEST(googlemockPresence,duNothing)
-{
-	SUCCEED();	
+TEST(googlemockPresence, doNothing) {
+	SUCCEED();
 }
