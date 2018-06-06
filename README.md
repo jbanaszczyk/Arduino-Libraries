@@ -18,7 +18,7 @@ I'm proud to present my some commonly used libraries (tribool, units, compact op
 
 | library | short                    | download                                                                                   | documentation                                                                                |
 |:--------|:-------------------------|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
-| tribool | true/false/unknown logic | [src/tribool.h](https://github.com/jbanaszczyk/ArduinoLibraries/blob/master/src/tribool.h) | [doc/tribool.md](https://github.com/jbanaszczyk/ArduinoLibraries/blob/master/doc/tribool.md) |
+| tribool | true/false/unknown logic | [src/tribool.h](https://github.com/jbanaszczyk/ArduinoLibraries/raw/master/src/tribool.h) | [doc/tribool.md](https://github.com/jbanaszczyk/ArduinoLibraries/blob/master/doc/tribool.md) |
 
 
 ## For beginners: principles of use
